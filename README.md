@@ -1,14 +1,14 @@
-<div align ="center"><img src="logo.svg">
+<div align ="center"><img src="readme.img/logo.svg">
 </div>
 
 ## 🖥 Preview
-![Alt ou título da imagem](índice.jpg)
+![Alt ou título da imagem](readme.img/índice.jpg)
 
 
 
 
 ## 📖 Sobre
-Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
+Este é um projeto desenvolvido durante a **Next Level Week**, realizada pela [@Rocketseat](https://rocketseat.com.br/) durante os dias 3 a 9 de Agosto de 2020.
 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais!
 
