@@ -28,7 +28,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/JorgeSantan/NLW02.git
 
 # Entrar no diretório
-cd Proffy]
+cd proffy
 
 # Executar o servidor
 npm run dev
